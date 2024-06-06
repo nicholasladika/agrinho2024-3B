@@ -23,3 +23,21 @@ header{
     text-transform: uppercase;
     margin-left: 20px;
 }
+
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.sobre_imagem{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+
+.sobre_texto{
+    text-align: justify;
+    width: 400px;
+}
