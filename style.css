@@ -1,5 +1,5 @@
 body{
-
+    width: 100%;
     background-color:  rgb(132, 135, 137)
 
 }
@@ -41,3 +41,20 @@ header{
     text-align: justify;
     width: 400px;
 }
+
+.elementos{
+    display: flex;
+}
+
+
+.container{
+    border: 2px solid  black;
+    padding: 20px;
+    text-align: center;
+    }
+
+    .elementos_container-imagem{
+
+        width: 300px;
+        height: 300px;
+    }
