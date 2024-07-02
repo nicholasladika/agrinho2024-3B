@@ -1,13 +1,13 @@
 body{
     width:100%;
-    background-color: rgb(132, 135, 137);
+    background-color: rgb(41, 140, 206);
 
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(222, 168, 202);
+    background-color: rgb(31, 21, 27);
     padding: 20px;
     align-items: center;
 }
@@ -52,7 +52,7 @@ flex-wrap: wrap;
 }
 
 .container{
- border: 2px solid black; 
+ border: 2px solid rgb(255, 245, 245); 
  padding: 20px;
  text-align: center;
 }
